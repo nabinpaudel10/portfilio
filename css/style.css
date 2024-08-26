@@ -35,7 +35,7 @@ html::-webkit-scrollbar {
   width: 0.8rem;
 }
 html::-webkit-scrollbar-track {
-  background: rgb(201, 112, 228);
+  background: rgb(201, 112, 228));
 }
 html::-webkit-scrollbar-thumb {
   background: #050505;
@@ -215,11 +215,10 @@ header .navbar ul li a:hover {
 .home .image img {
   width: 70%;
   height: 70%;
-  margin-top: 100px;
-  margin-left: 210px;
-  padding-left:40px;
+  margin-top: 5rem;
+  margin-left: 6rem;
   border-radius: 2%;
-  box-shadow: 0 5px 8px #0f0f0f4d;
+  box-shadow: 0 2px 8px #0f0f0f4d;
   cursor: pointer;
 }
 .home .image img:hover {
